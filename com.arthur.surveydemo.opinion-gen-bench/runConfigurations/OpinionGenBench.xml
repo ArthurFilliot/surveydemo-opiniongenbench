@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OpinionGenBench" type="TORNADOFX_RUNCONFIGURATION" nameIsGenerated="true" run-type="App" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+    <option name="MAIN_CLASS_NAME" value="com.arthur.surveydemo.opiniongenbench.OpinionGenBench" />
+    <module name="tornadofx-gradle-project.main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
